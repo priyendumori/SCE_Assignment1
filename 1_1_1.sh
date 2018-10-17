@@ -1,0 +1,1 @@
+grep -i 'india\|africa' /usr/share/dict/words

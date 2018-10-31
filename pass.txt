@@ -1,2 +1,2 @@
-priyendu.mori@students.iiit.ac.in
-Priyendu!3012
+<LDAP username>
+<LDAP password>
